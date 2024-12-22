@@ -1,38 +1,47 @@
-class Solution:
-    def leftmostBuildingQueries(self, heights, queries):
-        mono_stack = []
-        result = [-1 for _ in range(len(queries))]
-        new_queries = [[] for _ in range(len(heights))]
-        for i in range(len(queries)):
-            a = queries[i][0]
-            b = queries[i][1]
-            if a > b:
-                a, b = b, a
-            if heights[b] > heights[a] or a == b:
-                result[i] = b
-            else:
-                new_queries[b].append((heights[a], i))
+class Solution {
+public:
+    vector<int> leftmostBuildingQueries(vector<int>& heights,
+                                        vector<vector<int>>& queries) {
+        vector<pair<int, int>> monoStack;
+        vector<int> result(queries.size(), -1);
+        vector<vector<pair<int, int>>> newQueries(heights.size());
+        for (int i = 0; i < queries.size(); i++) {
+            int a = queries[i][0];
+            int b = queries[i][1];
+            if (a > b) swap(a, b);
+            if (heights[b] > heights[a] || a == b)
+                result[i] = b;
+            else
+                newQueries[b].push_back({heights[a], i});
+        }
 
-        for i in range(len(heights) - 1, -1, -1):
-            mono_stack_size = len(mono_stack)
-            for a, b in new_queries[i]:
-                position = self.search(a, mono_stack)
-                if position < mono_stack_size and position >= 0:
-                    result[b] = mono_stack[position][1]
-            while mono_stack and mono_stack[-1][0] <= heights[i]:
-                mono_stack.pop()
-            mono_stack.append((heights[i], i))
-        return result
+        for (int i = heights.size() - 1; i >= 0; i--) {
+            int monoStackSize = monoStack.size();
+            for (auto& [a, b] : newQueries[i]) {
+                int position = search(a, monoStack);
+                if (position < monoStackSize && position >= 0)
+                    result[b] = monoStack[position].second;
+            }
+            while (!monoStack.empty() && monoStack.back().first <= heights[i])
+                monoStack.pop_back();
+            monoStack.push_back({heights[i], i});
+        }
+        return result;
+    }
 
-    def search(self, height, mono_stack):
-        left = 0
-        right = len(mono_stack) - 1
-        ans = -1
-        while left <= right:
-            mid = (left + right) // 2
-            if mono_stack[mid][0] > height:
-                ans = max(ans, mid)
-                left = mid + 1
-            else:
-                right = mid - 1
-        return ans
+private:
+    int search(int height, vector<pair<int, int>>& monoStack) {
+        int left = 0;
+        int right = monoStack.size() - 1;
+        int ans = -1;
+        while (left <= right) {
+            int mid = (left + right) / 2;
+            if (monoStack[mid].first > height) {
+                ans = max(ans, mid);
+                left = mid + 1;
+            } else
+                right = mid - 1;
+        }
+        return ans;
+    }
+};
