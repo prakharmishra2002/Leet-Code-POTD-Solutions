@@ -5,8 +5,8 @@
 
 <div align = 'center'>
 
-| Date    | Problem Name              | C        | C++      | Python   |
-|---------|---------------------------|----------|----------|----------|
-| 01 Jan  | Maximum Score After Splitting A String  | | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.cpp) | [Solution](#) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.py) |
+| Date    | Problem Name              | C++      | Python   |
+|---------|---------------------------|----------|----------|
+| 01 Jan  | Maximum Score After Splitting A String  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.cpp) | [Solution](#) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.py) |
 
 </div>
