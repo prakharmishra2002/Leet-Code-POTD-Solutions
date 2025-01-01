@@ -1,7 +1,7 @@
-<h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2024🧠</h1>
+<h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2025🧠</h1>
 
 
-<h2 align = 'center'>📅 January 2024 Problem of the Day Solutions 📅</h2>
+<h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
 
 <div align = 'center'>
 
