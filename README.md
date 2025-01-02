@@ -8,5 +8,6 @@
 | Date    | Problem Name              | C++      | Python   |
 |---------|---------------------------|----------|----------|
 | 01 Jan  | Maximum Score After Splitting A String  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/01.py) |
+| 02 Jan  | Count Vowel Strings in Ranges  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/02.py) |
 
 </div>
