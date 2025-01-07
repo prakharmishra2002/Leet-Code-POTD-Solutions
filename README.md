@@ -13,5 +13,6 @@
 | 04 Jan  | Unique Length-3 Palindromic Subsequences  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/04.py) |
 | 05 Jan  | Shifting Letters II  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/05.py) |
 | 06 Jan  | Minimum Number of Operations to Move All Balls to Each Box  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/06.py) |
+| 07 Jan  | String Matching in an Array  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/07.py) |
 
 </div>
