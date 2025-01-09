@@ -15,5 +15,6 @@
 | 06 Jan  | Minimum Number of Operations to Move All Balls to Each Box  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/06.py) |
 | 07 Jan  | String Matching in an Array  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/07.py) |
 | 08 Jan  | Count Prefix and Suffix Pairs I  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/08.py) |
+| 09 Jan  | Counting Words With a Given Prefix  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/09.py) |
 
 </div>
