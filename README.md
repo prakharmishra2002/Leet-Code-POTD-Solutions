@@ -17,5 +17,6 @@
 | 08 Jan  | Count Prefix and Suffix Pairs I  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/08.py) |
 | 09 Jan  | Counting Words With a Given Prefix  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/09.py) |
 | 10 Jan  | Word Subsets  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/10.py) |
+| 11 Jan  | Construct K Palindrome Strings  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/11.py) |
 
 </div>
