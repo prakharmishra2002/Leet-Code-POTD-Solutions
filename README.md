@@ -19,6 +19,7 @@
 | 10 Jan  | Word Subsets  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/10.py) |
 | 11 Jan  | Construct K Palindrome Strings  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/11.py) |
 | 13 Jan  | Minimum Length of String After Operations  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/13.py) |
-| 14 Jan  | Minimize XOR  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/15.py) |
+| 15 Jan  | Minimize XOR  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/15.py) |
+| 16 Jan  | Bitwise XOR of All Pairings  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/16.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/16.py) |
 
 </div>
