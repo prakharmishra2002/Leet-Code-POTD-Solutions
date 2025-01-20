@@ -24,5 +24,6 @@
 | 17 Jan  | Neighboring Bitwise XOR | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/17.py) |
 | 18 Jan  | Minimum Cost to Make at Least One Valid Path in a Grid | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/18.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/18.py) |
 | 19 Jan  | Trapping Rain Water II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/19.py) |
+| 20 Jan  | First Completely Painted Row or Column | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/20.py) |
 
 </div>
