@@ -26,5 +26,6 @@
 | 19 Jan  | Trapping Rain Water II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/19.py) |
 | 20 Jan  | First Completely Painted Row or Column | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/20.py) |
 | 21 Jan  | Grid Game | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/21.py) |
+| 22 Jan  | Map of Highest Peak | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/22.py) |
 
 </div>
