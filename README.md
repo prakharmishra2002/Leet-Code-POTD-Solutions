@@ -29,5 +29,6 @@
 | 22 Jan  | Map of Highest Peak | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/22.py) |
 | 23 Jan  | Count Servers that Communicate | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/23.py) |
 | 24 Jan  | Find Eventual Safe States | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/24.py) |
+| 25 Jan  | Make Lexicographically Smallest Array by Swapping Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.py) |
 
 </div>
