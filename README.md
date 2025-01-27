@@ -31,5 +31,6 @@
 | 24 Jan  | Find Eventual Safe States | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/24.py) |
 | 25 Jan  | Make Lexicographically Smallest Array by Swapping Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.py) |
 | 26 Jan  | Maximum Employees to Be Invited to a Meeting | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/26.py) |
+| 27 Jan  | Course Schedule IV | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.py) |
 
 </div>
