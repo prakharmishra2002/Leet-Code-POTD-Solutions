@@ -1,6 +1,6 @@
 <h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2025🧠</h1>
 
-
+<div>
 <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
 
 <div align = 'center'>
@@ -32,5 +32,14 @@
 | 25 Jan  | Make Lexicographically Smallest Array by Swapping Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/25.py) |
 | 26 Jan  | Maximum Employees to Be Invited to a Meeting | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/26.py) |
 | 27 Jan  | Course Schedule IV | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.py) |
+<h2>| 28 Jan  | Maximum Number of Fish in a Grid | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/28.py) |</h2>
 
+</div>
+</div>
+
+
+
+
+<div>
+<h2 align = 'center'>📅 February 2025 Problem of the Day Solutions 📅</h2>
 </div>
