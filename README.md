@@ -34,6 +34,7 @@
   | 27 Jan  | Course Schedule IV | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/27.py) |
   | 28 Jan  | Maximum Number of Fish in a Grid | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/28.py) |
   | 29 Jan  | Redundant Connection | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/29.py) |
+  | 30 Jan  | Divide Nodes Into the Maximum Number of Groups | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/30.py) |
  ---
   </div>
 </div>
