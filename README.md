@@ -48,7 +48,7 @@
     
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
-  | 01 Feb  |   | [Solution]() | [Solution]() |
+  | 01 Feb  | Special Array I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.py) |
   
   </div>  
 </div>
