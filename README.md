@@ -49,6 +49,7 @@
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
   | 01 Feb  | Special Array I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.py) |
+  | 01 Feb  | Check if Array Is Sorted and Rotated | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/02.py) |
   
   </div>  
 </div>
