@@ -2,7 +2,8 @@
 
 <div>
   <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
-
+  <details>
+    <summary>Complete January Solution(Click to see complete data)</summary>
   <div align = 'center'>
   
   | Date    | Problem Name              | C++      | Python   |
@@ -38,6 +39,7 @@
   | 31 Jan  | Making A Large Island | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/31.py) |
  ---
   </div>
+  </details>
 </div>
 
 
@@ -51,6 +53,7 @@
   | 01 Feb  | Special Array I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/01.py) |
   | 02 Feb  | Check if Array Is Sorted and Rotated | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/02.py) |
   | 03 Feb  | Longest Strictly Increasing or Strictly Decreasing Subarray | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/03.py) |
+  | 04 Feb  | Maximum Ascending Subarray Sum | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/04.py) |
   
   </div>  
 </div>
