@@ -3,7 +3,7 @@
 <div>
   <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
   <details>
-    <summary>Complete January Solution(Click to see complete data)</summary>
+    <summary>Complete January Solutions(Click to see complete data)</summary>
   <div align = 'center'>
   
   | Date    | Problem Name              | C++      | Python   |
