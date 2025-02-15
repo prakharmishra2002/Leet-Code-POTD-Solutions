@@ -37,9 +37,10 @@
   | 29 Jan  | Redundant Connection | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/29.py) |
   | 30 Jan  | Divide Nodes Into the Maximum Number of Groups | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/30.py) |
   | 31 Jan  | Making A Large Island | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202025/31.py) |
- ---
+
   </div>
   </details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
 
@@ -65,6 +66,6 @@
   | 13 Feb  | Minimum Operations to Exceed Threshold Value II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/13.py) |
   | 14 Feb  | Product of the Last K Numbers | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/14.py) |
   | 15 Feb  | Find the Punishment Number of an Integer | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/15.py) |
-  ---
   </div>  
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
