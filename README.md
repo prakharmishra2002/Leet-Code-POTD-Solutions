@@ -73,6 +73,7 @@
   | 21 Feb | Find Elements in a Contaminated Binary Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/21.py) |
   | 22 Feb | Recover a Tree From Preorder Traversal | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/22.py) |
   | 23 Feb | Construct Binary Tree from Preorder and Postorder Traversal | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/23.py) |
+  | 24 Feb | Most Profitable Path in a Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/24.py) |
   
   </div>  
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
