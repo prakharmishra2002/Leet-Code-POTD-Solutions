@@ -3,7 +3,7 @@
 <div>
   <h2 align = 'center'>📅 January 2025 Problem of the Day Solutions 📅</h2>
   <details>
-    <summary>Complete January Solutions(Click to see complete data)</summary>
+    <summary> <h3>Complete January Solutions(Click to see complete data)</h3></summary>
   <div align = 'center'>
   
   | Date    | Problem Name              | C++      | Python   |
@@ -74,6 +74,7 @@
   | 22 Feb | Recover a Tree From Preorder Traversal | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/22.py) |
   | 23 Feb | Construct Binary Tree from Preorder and Postorder Traversal | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/23.py) |
   | 24 Feb | Most Profitable Path in a Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/24.py) |
+  | 25 Feb | Number of Sub-arrays With Odd Sum | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/25.py) |
   
   </div>  
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
