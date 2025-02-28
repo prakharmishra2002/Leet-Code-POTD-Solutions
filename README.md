@@ -46,7 +46,9 @@
 
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 February 2025 Problem of the Day Solutions 📅</h2>
-  
+    <details>
+    <summary> <h3>Complete January Solutions(Click to see complete solutions)</h3></summary>
+      
   <div align = 'center'>
     
   | Date    | Problem Name              | C++      | Python   |
@@ -79,13 +81,15 @@
   | 27 Feb | Length of Longest Fibonacci Subsequence | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/27.py) |
   | 28 Feb | Shortest Common Supersequence  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/Februrary%202025/28.py) |
   
-  </div>  
+  </div> 
+    <details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
 
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+
   
   <div align = 'center'>
     
@@ -94,5 +98,6 @@
   | 01 Mar  |  |  |  |
   
   </div>  
+
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
