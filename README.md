@@ -96,6 +96,7 @@
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
    | 01 Mar | Apply Operations to an Array | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/01.py) |
+   | 02 Mar | Merge Two 2D Arrays by Summing Values | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/02.py) |
   
   </div>  
 
