@@ -99,6 +99,7 @@
    | 02 Mar | Merge Two 2D Arrays by Summing Values | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/02.py) |
    | 03 Mar | Partition Array According to Given Pivot | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/03.py) |
    | 04 Mar | Check if Number is a Sum of Powers of Three | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/04.py) |
+   | 05 Mar | Count Total Number of Colored Cells | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/05.py) |
   
   </div>  
 
