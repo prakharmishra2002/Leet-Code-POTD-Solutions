@@ -101,6 +101,7 @@
    | 04 Mar | Check if Number is a Sum of Powers of Three | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/04.py) |
    | 05 Mar | Count Total Number of Colored Cells | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/05.py) |
    | 06 Mar | Find Missing and Repeated Values | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/06.py) |
+   | 07 Mar | Closest Prime Numbers in Range | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/07.py) |
   
   </div>  
 
