@@ -107,6 +107,7 @@
    | 10 Mar | Count of Substrings Containing Every Vowel and K Consonants II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/10.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/10.py) |
    | 11 Mar | Number of Substrings Containing All Three Characters | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/11.py) |
    | 12 Mar | Maximum Count of Positive Integer and Negative Integer | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/12.py) |
+   | 13 Mar | Zero Array Transformation II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/13.py) |
   
   </div>  
 
