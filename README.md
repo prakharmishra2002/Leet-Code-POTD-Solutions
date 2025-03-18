@@ -111,6 +111,7 @@
    | 14 Mar | Maximum Candies Allocated to K Children | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/14.py) |
    | 15 Mar | House Robber IV | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/15.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/15.py) |
    | 17 Mar | Divide Array Into Equal Pairs | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/17.py) |
+   | 18 Mar | Longest Nice Subarray | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/18.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/18.py) |
   
   </div>  
 
