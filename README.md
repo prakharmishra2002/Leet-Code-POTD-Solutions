@@ -36,7 +36,7 @@
    | 27 Mar | Minimum Index of a Valid Split | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/27.py) |
    | 28 Mar | Maximum Number of Points From Grid Queries | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/28.py) |
    | 29 Mar | Apply Operations to Maximize Score | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/29.py) |
-   | 30 Mar | Gas Station | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.py) |
+   | 30 Mar | Partition Labels | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.py) |
   
   </div>  
 
