@@ -1,9 +1,21 @@
 class Solution:
-    def startStation(self, gas, cost):
-        total = curr = start = 0
-        for i in range(len(gas)):
-            diff = gas[i] - cost[i]
-            total += diff
-            curr += diff
-            if curr < 0: start, curr = i + 1, 0
-        return start if total >= 0 else -1
+    def partitionLabels(self, s: str) -> List[int]:
+        # Stores the last index of each character in 's'
+        last_occurrence = [0] * 26
+        for i, char in enumerate(s):
+            last_occurrence[ord(char) - ord("a")] = i
+
+        partition_end = 0
+        partition_start = 0
+        partition_sizes = []
+
+        for i, char in enumerate(s):
+            partition_end = max(
+                partition_end, last_occurrence[ord(char) - ord("a")]
+            )
+            # End of the current partition
+            if i == partition_end:
+                partition_sizes.append(i - partition_start + 1)
+                partition_start = i + 1
+
+        return partition_sizes
