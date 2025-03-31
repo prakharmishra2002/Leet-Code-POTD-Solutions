@@ -1,8 +1,25 @@
 <h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2025🧠</h1>
 
 <div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+  <h2 align = 'center'>📅 April 2025 Problem of the Day Solutions 📅</h2>
 
+  
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C++      | Python   |
+  |---------|---------------------------|----------|----------|
+   | 01 Apr |  |  |  |
+  
+  </div>  
+
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
+
+
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 March 2025 Problem of the Day Solutions 📅</h2>
+    <details>
+    <summary> <h3>Complete March Solutions(Click to see complete solutions)</h3></summary>
   
   <div align = 'center'>
     
@@ -37,8 +54,10 @@
    | 28 Mar | Maximum Number of Points From Grid Queries | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/28.py) |
    | 29 Mar | Apply Operations to Maximize Score | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/29.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/29.py) |
    | 30 Mar | Partition Labels | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/30.py) |
+   | 31 Mar | Put Marbles in Bags | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/31.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/March%202025/31.py) |
   
   </div>  
+  </details>
 
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
