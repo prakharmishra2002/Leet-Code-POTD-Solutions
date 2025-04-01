@@ -8,7 +8,7 @@
     
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
-   | 01 Apr |  |  |  |
+   | 01 Apr | Solving Questions With Brainpower |  |  |
   
   </div>  
 
