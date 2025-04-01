@@ -8,7 +8,7 @@
     
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
-   | 01 Apr | Solving Questions With Brainpower |  |  |
+   | 01 Apr | Solving Questions With Brainpower | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/01.py) |
   
   </div>  
 
