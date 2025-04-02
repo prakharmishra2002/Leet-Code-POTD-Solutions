@@ -7,7 +7,7 @@
   <div align = 'center'>
     
   | Date    | Problem Name              | C      | C++      | Python   |
-  |---------|---------------------------|----------|----------|
+  |---------|---------------------------|----------|----------|----------|
    | 01 Apr | Solving Questions With Brainpower |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/01.py) |
    | 02 Apr | Maximum Value of an Ordered Triplet I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/02.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/02.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/02.py) |
   
