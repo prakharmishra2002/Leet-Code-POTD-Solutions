@@ -14,6 +14,7 @@
    | 04 Apr | Lowest Common Ancestor of Deepest Leaves | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/04.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/04.py) |
    | 05 Apr | Sum of All Subset XOR Totals |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/05.py) |
    | 06 Apr | Largest Divisible Subset |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/06.py) |
+   | 07 Apr | Partition Equal Subset Sum |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/07.py) |
   
   </div>  
 
