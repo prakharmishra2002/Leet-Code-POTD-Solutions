@@ -28,6 +28,7 @@
    | 18 Apr | Count and Say | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/18.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/18.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/18.py) |
    | 19 Apr | Count the Number of Fair Pairs |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/19.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/19.py) |
    | 20 Apr | Rabbits in Forest |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/20.py) |
+   | 22 Apr | Count the Number of Ideal Arrays |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/22.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/22.py) |
   
   </div>  
 
