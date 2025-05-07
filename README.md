@@ -1,10 +1,26 @@
 <h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2025🧠</h1>
 
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 May 2025 Problem of the Day Solutions 📅</h2>
+
+  
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C      | C++      | Python   |
+  |---------|---------------------------|----------|----------|----------|
+   |  01 May |  |  |  |  |
+  
+  </div>  
+
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
+
 
 <div style="margin-top: 20px;">
   <h2 align = 'center'>📅 April 2025 Problem of the Day Solutions 📅</h2>
-
-  
+      <details>
+    <summary> <h3>Complete April Solutions(Click to see complete solutions)</h3></summary>
+        
   <div align = 'center'>
     
   | Date    | Problem Name              | C      | C++      | Python   |
@@ -36,7 +52,7 @@
    | 27 Apr | Count Subarrays of Length Three With a Condition | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.py) |
   
   </div>  
-
+  </summary>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
