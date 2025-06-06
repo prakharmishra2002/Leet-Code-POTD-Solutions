@@ -57,7 +57,7 @@
    | 27 Apr | Count Subarrays of Length Three With a Condition | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/April%202025/27.py) |
   
   </div>  
-  </summary>
+</details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
