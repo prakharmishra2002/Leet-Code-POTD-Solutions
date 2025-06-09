@@ -16,6 +16,7 @@
    |  06 June | Using a Robot to Print the Lexicographically Smallest String | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/06.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/06.py) |
    |  07 June | Lexicographically Minimum String After Removing Stars | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/07.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/07.py) |
    |  08 June | Lexicographical Numbers |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/08.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/08.py) |
+   |  09 June | K-th Smallest in Lexicographical Order |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/09.py) |
   
   </div>  
 
