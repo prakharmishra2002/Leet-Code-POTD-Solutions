@@ -21,6 +21,7 @@
    | 11 June | Maximum Difference Between Even and Odd Frequency II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/11.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/11.py) |
    | 12 June | Maximum Difference Between Adjacent Elements in a Circular Array | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/12.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/12.py) |
    | 13 June | Minimize the Maximum Difference of Pairs |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/13.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/13.py) |
+   | 14 June | Maximum Difference by Remapping a Digit | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.py) |
   
   </div>  
 
