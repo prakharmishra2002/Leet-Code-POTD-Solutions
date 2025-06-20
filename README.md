@@ -24,6 +24,7 @@
    | 14 June | Maximum Difference by Remapping a Digit | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/14.py) |
    | 16 June | Maximum Difference Between Increasing Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/16.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/16.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/16.py) |
    | 17 June | Count the Number of Arrays with K Matching Adjacent Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.py) |
+   | 20 June | Maximum Manhattan Distance After K Changes | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.py) |
   
   </div>  
 
