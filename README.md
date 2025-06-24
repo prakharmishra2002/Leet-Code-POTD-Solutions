@@ -26,6 +26,7 @@
    | 17 June | Count the Number of Arrays with K Matching Adjacent Elements | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/17.py) |
    | 20 June | Maximum Manhattan Distance After K Changes | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/20.py) |
    | 21 June | Minimum Deletions to Make String K-Special | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/21.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/21.py) |
+   | 24 June | Find All K-Distant Indices in an Array | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/24.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/24.py) |
   
   </div>  
 
