@@ -2,7 +2,31 @@
 
 
 <div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 July 2025 Problem of the Day Solutions 📅</h2>
+  <!-- <details>
+    <summary> <h3>Complete July Solutions(Click to see complete solutions)</h3></summary>  -->
+
+ 
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C      | C++      | Python   |
+  |---------|---------------------------|----------|----------|----------|
+   | 03 June | Maximum Candies You Can Get from Boxes | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/03.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/03.py) |
+  
+  
+  </div>  
+<!--</details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> -->
+</div>
+
+
+
+
+<div style="margin-top: 20px;">
   <h2 align = 'center'>📅 June 2025 Problem of the Day Solutions 📅</h2>
+  <details>
+    <summary> <h3>Complete June Solutions(Click to see complete solutions)</h3></summary>
+
  
   <div align = 'center'>
     
@@ -31,7 +55,7 @@
    | 30 June | Longest Harmonious Subsequence |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/June%202025/30.py) |
   
   </div>  
-
+</details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
 
