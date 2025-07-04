@@ -12,6 +12,7 @@
   | Date    | Problem Name              | C      | C++      | Python   |
   |---------|---------------------------|----------|----------|----------|
    | 03 July | Find the K-th Character in String Game I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/03.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/03.py) |
+   | 04 July | Find the K-th Character in String Game II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/04.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/04.py) |
   
   
   </div>  
