@@ -19,6 +19,7 @@
    | 09 July | Reschedule Meetings for Maximum Free Time I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/09.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/08.py) |
    | 11 July | Meeting Rooms III |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/11.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/11.py) |
    | 12 July | The Earliest and Latest Rounds Where Players Compete | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/12.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/12.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/12.py) |
+   | 23 July | Maximum Score From Removing Substrings |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/23.py) |
   
   
   </div>  
