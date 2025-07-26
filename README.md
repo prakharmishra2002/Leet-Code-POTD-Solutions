@@ -22,6 +22,7 @@
    | 23 July | Maximum Score From Removing Substrings |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/23.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/23.py) |
    | 24 July | Minimum Score After Removals on a Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/24.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/24.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/24.py) |
    | 25 July | Maximum Unique Subarray Sum After Deletion | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.py) |
+   | 26 July | Maximize Subarrays After Removing One Conflicting Pair | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.py) |
   
   
   </div>  
