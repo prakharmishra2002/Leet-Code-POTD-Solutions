@@ -24,6 +24,7 @@
    | 25 July | Maximum Unique Subarray Sum After Deletion | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/25.py) |
    | 26 July | Maximize Subarrays After Removing One Conflicting Pair | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/26.py) |
    | 28 July | Count Number of Maximum Bitwise-OR Subsets |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/28.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/28.py) |
+   | 30 July | Longest Subarray With Maximum Bitwise AND |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/30.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/July%202025/30.py) |
   
   
   </div>  
