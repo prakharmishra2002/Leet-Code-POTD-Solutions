@@ -2,9 +2,28 @@
 
 
 <div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 July 2025 Problem of the Day Solutions 📅</h2>
+  <h2 align = 'center'>📅 August 2025 Problem of the Day Solutions 📅</h2>
   <!-- <details>
-    <summary> <h3>Complete July Solutions(Click to see complete solutions)</h3></summary>  -->
+    <summary> <h3>Complete August Solutions(Click to see complete solutions)</h3></summary>  -->
+
+ 
+  <div align = 'center'>
+    
+  | Date    | Problem Name              | C      | C++      | Python   |
+  |---------|---------------------------|----------|----------|----------|
+   | 03 August | Find the K-th Character in String Game I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/03.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/03.py) |
+  
+  
+  </div>  
+<!--</details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> -->
+</div>
+
+
+<div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 July 2025 Problem of the Day Solutions 📅</h2>
+   <details>
+    <summary> <h3>Complete July Solutions(Click to see complete solutions)</h3></summary> 
 
  
   <div align = 'center'>
@@ -29,8 +48,8 @@
   
   
   </div>  
-<!--</details>
-  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> -->
+</details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> 
 </div>
 
 
