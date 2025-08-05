@@ -13,6 +13,7 @@
   |---------|---------------------------|----------|----------|----------|
   | 01 August | Pascal's Triangle |  |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/01.py) |
   | 04 August | Fruit Into Baskets |  |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/04.py) |
+  | 05 August | Fruits Into Baskets II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.py) |
   
   
   </div>  
