@@ -1,27 +1,27 @@
 class Solution {
-  public:
-    int getLPSLength(string &s) {
-        int n = s.length();
-        vector<int> lps(n, 0);  // lps[i] stores length of longest prefix-suffix for s[0..i]
+public:
+    double soupServings(int n) {
+        int m = ceil(n / 25.0);
+        unordered_map<int, unordered_map<int, double>> dp;
 
-        int length = 0;  // length of previous longest prefix suffix
-        int i = 1;
+        function<double(int, int)> calculateDP = [&](int i, int j) -> double {
+            return (dp[max(0, i - 4)][j] + dp[max(0, i - 3)][j - 1] +
+                    dp[max(0, i - 2)][max(0, j - 2)] + dp[i - 1][max(0, j - 3)]) /
+                   4;
+        };
 
-        while (i < n) {
-            if (s[i] == s[length]) {
-                length++;
-                lps[i] = length;
-                i++;
-            } else {
-                if (length != 0) {
-                    length = lps[length - 1];  // fallback
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
+        dp[0][0] = 0.5;
+        for (int k = 1; k <= m; k++) {
+            dp[0][k] = 1;
+            dp[k][0] = 0;
+            for (int j = 1; j <= k; j++) {
+                dp[j][k] = calculateDP(j, k);
+                dp[k][j] = calculateDP(k, j);
+            }
+            if (dp[k][k] > 1 - 1e-5) {
+                return 1;
             }
         }
-
-        return lps[n - 1];  // last value is the LPS length for the full string
+        return dp[m][m];
     }
 };
