@@ -16,6 +16,7 @@
   | 05 August | Fruits Into Baskets II | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/05.py) |
   | 07 August | Find the Maximum Number of Fruits Collected | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/07.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/07.py) |
   | 09 August | Power of Two |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/09.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/09.py) |
+  | 21 August | Count Submatrices With All Ones | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/21.c) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/21.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/August%202025/21.py) |
   
   
   </div>  
