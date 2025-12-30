@@ -1,10 +1,31 @@
-<h1 align = 'center'>🚀LeetCode Problem of the Day Solutions 2025🧠</h1>
+<h1 align = 'center'>🚀LeetCode Problem of the Day Solutions🧠</h1>
 
 
-<div style="margin-top: 20px;">
-  <h2 align = 'center'>📅 August 2025 Problem of the Day Solutions 📅</h2>
+<div>
+  <h2 align = 'center'>📅 January 2026 Problem of the Day Solutions 📅</h2>
   <!-- <details>
-    <summary> <h3>Complete August Solutions(Click to see complete solutions)</h3></summary>  -->
+    <summary> <h3>Complete January Solutions(Click to see complete solutions)</h3></summary> -->
+  <div align = 'center'>
+  
+  | Date    | Problem Name              | C++      | Python   |
+  |---------|---------------------------|----------|----------|
+  | 01 Jan  | Maximum Score After Splitting A String  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.py) |
+
+  </div>
+  </details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
+</div>
+
+
+
+<!-- ==============================================================================================2025======================================================================================= -->
+<details>
+    <summary> <h3>Complete 2025 Solutions</h3></summary>
+
+  <div style="margin-top: 20px;">
+  <h2 align = 'center'>📅 August 2025 Problem of the Day Solutions 📅</h2>
+  <details>
+    <summary> <h3>Complete August Solutions(Click to see complete solutions)</h3></summary> 
 
  
   <div align = 'center'>
@@ -20,7 +41,7 @@
   
   
   </div>  
-<!--</details>
+<!-- </details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10"> -->
 </div>
 
@@ -271,3 +292,5 @@
   </details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
 </div>
+</details>
+  <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
