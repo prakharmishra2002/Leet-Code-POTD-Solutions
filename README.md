@@ -9,7 +9,7 @@
   
   | Date    | Problem Name              | C++      | Python   |
   |---------|---------------------------|----------|----------|
-  | 01 Jan  | Maximum Score After Splitting A String  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.py) |
+  | 01 Jan  | Plus One | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.py) |
 
   </div>
   </details>
