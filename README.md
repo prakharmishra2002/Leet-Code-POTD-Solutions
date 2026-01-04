@@ -11,6 +11,7 @@
   |---------|---------------------------|----------|----------|
   | 01 Jan  | Plus One | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/01.py) |
   | 03 Jan  | Number of Ways to Paint N × 3 Grid | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/03.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/03.py) |
+  | 04 Jan  | Four Divisors | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/04.py) |
 
   </div>
   </details>
