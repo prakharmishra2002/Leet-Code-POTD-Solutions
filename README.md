@@ -14,6 +14,7 @@
   | 04 Jan  | Four Divisors | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/04.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/04.py) |
   | 05 Jan  | Maximum Matrix Sum | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/05.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/05.py) |
   | 06 Jan  | Maximum Level Sum of a Binary Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/06.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/06.py) |
+  | 07 Jan  | Maximum Product of Splitted Binary Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/07.py) |
 
   </div>
   </details>
