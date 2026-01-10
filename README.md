@@ -17,7 +17,8 @@
   | 07 Jan  | Maximum Product of Splitted Binary Tree | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/07.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/07.py) |
   | 08 Jan  | Max Dot Product of Two Subsequences | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/08.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/08.py) |
   | 09 Jan  | Smallest Subtree with all the Deepest Nodes |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/09.py) |
-
+  | 10 Jan  | Minimum ASCII Delete Sum for Two Strings | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/10.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/10.py) |
+  
   </div>
   </details>
   <img align="center" src="https://github.com/prakharmishra2002/Leet-Code-POTD-Solutions/blob/main/SparkleLine.gif" alt="Coding" height="10">
