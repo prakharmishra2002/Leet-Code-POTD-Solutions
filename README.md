@@ -18,6 +18,7 @@
   | 08 Jan  | Max Dot Product of Two Subsequences | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/08.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/08.py) |
   | 09 Jan  | Smallest Subtree with all the Deepest Nodes |  | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/09.py) |
   | 10 Jan  | Minimum ASCII Delete Sum for Two Strings | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/10.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/10.py) |
+  | 13 Jan  | Separate Squares I | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/13.cpp) | [Solution](https://github.com/prakharmishra2002/Leet-Code-POTD/blob/main/January%202026/13.py) |
   
   </div>
   </details>
